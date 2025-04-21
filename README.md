@@ -17,8 +17,7 @@ An interactive web application that allows users to browse auction items, place 
 - **Auction Listings**: View a list of items available for bidding.
 - **Bidding System**: Place bids on items with real-time updates.
 - **Favorites Management**: Add or remove items from favorites.
-- **Responsive Design**: Mobile-friendly and responsive layout.
-- **Dynamic Routing**: Seamless navigation between pages.
+- **Responsive Design**: Mobile-friendly and responsive layout. (Ongoing...)
 
 ## 📦 Installation
 
@@ -33,10 +32,9 @@ npm start
 
 The application is deployed and accessible at:
 
-- **Netlify**: [https://your-app.netlify.app](https://your-app.netlify.app)
-- **Surge**: [https://your-app.surge.sh](https://your-app.surge.sh)
+- **Netlify**: [https://your-app.netlify.app]([https://your-app.netlify.app](https://actiongallerybyreact.netlify.app/)
 
 ## 👤 Author
 
-- **Akibur Rahman** – [@yourgithub](https://github.com/yourgithub)
+- **Akibur Rahman** – [@yourgithub](https://github.com/akiburrchoton)
 
