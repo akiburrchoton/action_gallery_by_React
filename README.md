@@ -36,5 +36,5 @@ The application is deployed and accessible at:
 
 ## 👤 Author
 
-- **Akibur Rahman** – [@yourgithub](https://github.com/akiburrchoton)
+- **Akibur Rahman** – [@Mygithub](https://github.com/akiburrchoton)
 
