@@ -32,7 +32,7 @@ npm start
 
 The application is deployed and accessible at:
 
-- **Netlify**: [https://your-app.netlify.app]([https://your-app.netlify.app](https://actiongallerybyreact.netlify.app/)
+- **Netlify**: https://actiongallerybyreact.netlify.app/
 
 ## 👤 Author
 
