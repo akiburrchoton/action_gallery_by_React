@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Leica M3 Camera",
+    "description": "Leica M3 Camera - Classic 35mm film camera from the golden era of photography.",
+    "currentBidPrice": "2850",
+    "timeLeft": "2 Days left",
+    "bidsCount": 24,
+    "url": "https://i.ibb.co.com/nsrsfY27/Bid1-min.png"
+  },
+  {
+    "id": 2,
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "description": "Gibson SG Electric Guitar - A legendary axe from 1965 with killer tone.",
+    "currentBidPrice": "2850",
+    "timeLeft": "2 Days left",
+    "bidsCount": 31,
+    "url": "https://i.ibb.co.com/8L9MKywd/Bid2-min.png"
+  },
+  {
+    "id": 3,
+    "title": "Original Apple Macintosh 128K (1984)",
+    "description": "Apple Macintosh 128K - The iconic personal computer that started it all.",
+    "currentBidPrice": "2850",
+    "timeLeft": "2 Days left",
+    "bidsCount": 17,
+    "url": "https://i.ibb.co.com/1JfHcSN7/Bid3-min.png"
+  },
+  {
+    "id": 4,
+    "title": "Rolex Submariner 16610",
+    "description": "Rolex Submariner - A timeless dive watch with stainless steel elegance.",
+    "currentBidPrice": "2850",
+    "timeLeft": "2 Days left",
+    "bidsCount": 45,
+    "url": "https://i.ibb.co.com/GfGnL5h8/Bid4-min.png"
+  },
+  {
+    "id": 5,
+    "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "description": "First Edition of 'The Great Gatsby' - A rare literary classic from the Jazz Age.",
+    "currentBidPrice": "2850",
+    "timeLeft": "2 Days left",
+    "bidsCount": 12,
+    "url": "https://i.ibb.co.com/vvfjqVJg/Bid5-min.png"
+  },
+  {
+    "id": 6,
+    "title": "Banksy Original Screen Print",
+    "description": "Banksy Screen Print - Original art by the elusive street legend.",
+    "currentBidPrice": "2850",
+    "timeLeft": "2 Days left",
+    "bidsCount": 29,
+    "url": "https://i.ibb.co.com/jvrByw2f/Bid6-min.png"
+  }
+]

@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Sora:wght@100..800&display=swap');
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme {
+    --font-poppins: 'Poppins', 'sans-serif';
+    --font-sora: 'Sora', 'sans-serif';
+    --color-blue: #003EA4;
+    --color-yellow: #FFD337;
+    --color-white: #fff;
+    --color-text: #0E2954;
+}
